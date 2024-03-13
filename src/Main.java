@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         // add a comment
-        System.out.println("Hello Mars!");
+        // collaborate change
+        System.out.println("RYCHKA was here haha!");
 
         // trying pull request
     }
